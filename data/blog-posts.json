@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "title": "Add blog post title here",
+      "date": "2024-01-01",
+      "excerpt": "Add blog post content here",
+      "link": ""
+    }
+  ]
+}

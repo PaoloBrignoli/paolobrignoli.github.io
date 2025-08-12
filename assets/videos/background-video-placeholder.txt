@@ -1,0 +1,11 @@
+Add background video here
+
+Instructions:
+1. Replace this file with your background video
+2. Recommended formats: MP4, WebM
+3. Keep file size reasonable for web loading (under 10MB)
+4. Consider using a subtle, non-distracting background video
+5. Update the video reference in index.html if you add a video
+6. Make sure the video is muted and set to autoplay for best user experience
+
+Optional: If you don't want a background video, you can remove the .background-video div from index.html entirely.

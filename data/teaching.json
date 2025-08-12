@@ -1,0 +1,20 @@
+{
+  "current_courses": [
+    {
+      "title": "Add current courses here",
+      "description": ""
+    }
+  ],
+  "past_courses": [
+    {
+      "title": "Add past courses here", 
+      "description": ""
+    }
+  ],
+  "materials": [
+    {
+      "title": "Add teaching materials here",
+      "link": ""
+    }
+  ]
+}

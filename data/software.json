@@ -1,0 +1,10 @@
+{
+  "software": [
+    {
+      "name": "DML-SDID",
+      "fullname": "Double Machine Learning for Staggered Difference-in-Difference",
+      "description": "R package (add more details later)",
+      "link": "Add GitHub repository link here"
+    }
+  ]
+}

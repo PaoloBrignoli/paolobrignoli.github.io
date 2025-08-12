@@ -1,0 +1,22 @@
+{
+  "papers": [
+    {
+      "title": "Double/debiased Machine Learning for Staggered Difference-in-Differences",
+      "authors": "Paolo Libenzio Brignoli, Andrea Naghi, Alessandro Varacca",
+      "year": "2024",
+      "journal": "Work in progress",
+      "abstract": "Difference-in-differences estimation has evolved rapidly in econometrics. Recent advances have developed robust tools for settings with staggered treatment adoption and expanded methods to address selection on observable characteristics through machine learning. Yet, the current literature is missing an explicit methodological bridge to connect these advances. In this paper we introduce a double/debiased machine learning staggered difference-in-differences estimator. We show that the statistical properties enabling machine learning methods in standard difference-in-differences naturally extend to settings with staggered policy adoption. By formally connecting orthogonalized estimation in two-period settings with modern staggered treatment designs, our approach enables valid and flexible estimation in complex, high-dimensional settings. Simulation evidence reveals substantial improvements of our framework in empirically relevant settings with both non-linear relationships and high-dimensional sparse covariates. We apply our methodology to evaluate the effectiveness of European Union's Agri-Environmental Schemes between 2014-2020. Our analysis reveals that most farmers maintain their previous practices after receiving environmental payments, suggesting significant windfall effects in current policy implementation. The application to agricultural policy demonstrates how accounting for both enrollment timing and complex farm characteristics can reveal important insights about environmental payment schemes, with direct implications for future policy design.",
+      "doi": "",
+      "pdf": "https://drive.google.com/file/d/1NUmfVwETpcVaiBvEL5LcuWdoKMNM-fn4/view?usp=sharing"
+    },
+    {
+      "title": "Evaluating the Impact of Switching to Organic Farming: A Double/debiased Machine Learning Staggered Difference-in-Differences Approach",
+      "authors": "Paolo Libenzio Brignoli, Yann de Mey, Paolo Sckokai, Alessandro Varacca",
+      "year": "2024",
+      "journal": "Work in progress",
+      "abstract": "The European Union (EU) has set a target to reach 25% organic agricultural land by 2030 as part of its sustainable agriculture strategy. Organic farming prohibits synthetic fertilizers and pesticides while providing farmers with price premiums to compensate for potential yield losses. The conversion period represents a critical transition when farmers must adopt organic practices without yet receiving premium prices. Despite organic farming's growth, we lack empirical evidence on how farmers adapt during the conversion period and how subsidies shape this transition. Using European Farm Accountancy Data Network data (2014-2020) and a double/debiased machine learning staggered difference-in-differences approach, we provide the first comprehensive causal analysis of organic conversion's economic impacts across all EU member states. Our findings reveal a fundamental trade-off: while organic farming potentially delivers substantial environmental benefits—with fertilizer and pesticide expenditures falling by over 150% cumulatively—farms face non-negligible economic challenges. Income net of organic-related subsidies reduces by 3.56% on average on a yearly basis, compounding to a 21.3% reduction over 6 years, revealing the role of public support. Additionally, we uncover important heterogeneity across farming systems. Livestock operations show minimal changes in costs, labor, or income, suggesting these farms already operated near-organic standards. Mixed/field crop farms demonstrate strategic adaptation, dramatically reducing input costs during transition when price premiums are unavailable, then adjusting management post-certification. These results underline the importance of continued support, especially during the transition period, if the EU's organic expansion is to be achieved.",
+      "doi": "",
+      "pdf": "https://drive.google.com/file/d/1Q5Zd5N0_S-X26t71jNb_SI6giXhD_EFX/view?usp=sharing"
+    }
+  ]
+}

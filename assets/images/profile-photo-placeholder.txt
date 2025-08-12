@@ -1,0 +1,8 @@
+Add profile photo here
+
+Instructions:
+1. Replace this file with your actual profile photo
+2. Recommended formats: JPG, PNG, WebP
+3. Recommended size: 300x300 pixels (square format)
+4. For best results, use a high-quality professional photo
+5. Update the image reference in index.html if you change the filename

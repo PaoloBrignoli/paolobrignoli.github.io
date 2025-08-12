@@ -1,0 +1,22 @@
+{
+  "papers": [
+    {
+      "title": "Machine Learning to Predict Grains Futures Prices",
+      "authors": "Paolo Libenzio Brignoli, Alessandro Varacca, Cornelis Gardebroek, Paolo Sckokai",
+      "year": "2024",
+      "journal": "Agricultural Economics",
+      "abstract": "Accurate commodity price forecasts are crucial for stakeholders in agricultural supply chains. They support informed marketing decisions, risk management, and investment strategies. Machine learning methods have significant potential to provide accurate forecasts by maximizing out-of-sample accuracy. However, their inherent complexity makes it challenging to understand the appropriate data pre-processing steps to ensure proper functionality. This study compares the forecasting performance of Long Short-Term Memory Recurrent Neural Networks (LSTM-RNNs) with classical econometric time series models for corn futures prices. The study considers various combinations of data pre-processing techniques, variable clusters, and forecast horizons. Our results indicate that LSTM-RNNs consistently outperform classical methods, particularly for longer forecast horizons. In particular, our findings demonstrate that LSTM-RNNs are capable of automatically handling structural breaks, resulting in more accurate forecasts when trained on datasets that include such shocks. However, in our setting, LSTM-RNNs struggle to deal with seasonality and trend components, necessitating specific data pre-processing procedures for their removal.",
+      "doi": "https://doi.org/10.1111/agec.12828",
+      "pdf": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/agec.12828"
+    },
+    {
+      "title": "Everything under control: comparing machine learning and classical econometric impact assessment methods using FADN data",
+      "authors": "Paolo Libenzio Brignoli, Yann de Mey, Cornelis Gardebroek",
+      "year": "2024",
+      "journal": "European Review of Agricultural Economics",
+      "abstract": "Machine learning (ML) methods have been proposed to improve the assessment of agricultural policies through enhanced causal inference. This study uses a simulation framework tailored to Farm Accountancy Data Network (FADN) data to scrutinize the performance of both ML and classical methods under diverse causal properties crucial for identification. Our findings reveal significant variations in performance across different treatment assignment rules, sample sizes and causal properties. Notably, the Causal Forest method consistently outperforms others in retrieving the causal effect and accurately characterizing its heterogeneity. However, the data-driven approach of ML methods proves ineffective in selecting the correct set of controls and addressing latent confounding.",
+      "doi": "https://doi.org/10.1093/erae/jbae034",
+      "pdf": "https://watermark.silverchair.com/jbae034.pdf?token=[truncated_for_brevity]"
+    }
+  ]
+}
